@@ -24,8 +24,12 @@ The simulation demonstrates that switching doors increases the chances of winnin
 Use `pip install -r requirements.txt` to necessary packages.
 
 ## Usage
+You can use the program directly from the This site: https://montyhallsimulation.streamlit.app/
+
+or
+
 add to `src` directory to the `PYTHONPATH` and run the project's Python script with: `python src/manty_hall.py`
-For Streamlit dashboard, run: streamlit run src/dashboard.py
+For Streamlit dashboard, run: `streamlit run src/dashboard.py`
 
 ## licence
 There is no problem using this code for other purposes
